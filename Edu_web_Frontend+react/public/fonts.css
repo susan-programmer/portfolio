@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Kharazmi';
+    src: url('/IRAN Kharazmi.woff') format('woff'),
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  body {
+    font-family: 'Kharazmi', sans-serif !important;
+  }
+  
