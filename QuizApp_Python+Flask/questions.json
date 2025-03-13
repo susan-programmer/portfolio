@@ -1,0 +1,17 @@
+[
+    {
+        "question": "پایتون یک زبان برنامه‌نویسی است؟",
+        "options": ["بله", "خیر"],
+        "answer": "بله"
+    },
+    {
+        "question": "کدام یک از موارد زیر زبان برنامه‌نویسی نیست؟",
+        "options": ["HTML", "Python", "Java", "C++"],
+        "answer": "HTML"
+    },
+    {
+        "question": "Flask در چه زبانی استفاده می‌شود؟",
+        "options": ["Python", "Java", "C#", "JavaScript"],
+        "answer": "Python"
+    }
+]
